@@ -1,0 +1,8 @@
+('Coefficients: \n', array([-0.06645608,  0.6251769 , -0.00793155]))
+0.164870894215
+Residual sum of squares: 695.87
+Variance score: 0.16
+mean absolute error: 23.59
+explained variance score: -8.89
+mean squared error: 756.76
+r^2 score: -8.89

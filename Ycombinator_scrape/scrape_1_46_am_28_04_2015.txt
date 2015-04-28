@@ -1,0 +1,4960 @@
+1.
+Console.mihai();
+59 points
+julien
+26 minutes ago
+discuss
+2.
+Disque  a distributed message broker
+252 points
+misiti3780
+4 hours ago
+48 comments
+3.
+Jq  A Command-line JSON processor
+273 points
+geekrax
+4 hours ago
+60 comments
+4.
+The Engineers Lament
+66 points
+nate
+2 hours ago
+10 comments
+5.
+Ghostery and NoScript-like add-ons frequently phone home
+134 points
+blueflow
+4 hours ago
+51 comments
+6.
+EU study recommends OpenBSD
+283 points
+fcambus
+7 hours ago
+114 comments
+7.
+Kerbal Space Program Launches Version 1.0
+58 points
+jonasrosland
+2 hours ago
+11 comments
+8.
+Six works of Computer Science-Fiction
+86 points
+smcgivern
+4 hours ago
+46 comments
+9.
+'Hush,' Myanmars new anonymous messaging app is kind of revolutionary
+59 points
+ngamau
+4 hours ago
+26 comments
+10.
+FIFA 2014 World Cup live stream architecture
+190 points
+dreampeppers99
+6 hours ago
+17 comments
+11.
+ZeroCater (YC W11) is looking for a full-stack engineer
+12.
+Functional Programming in Haskell by Examples
+31 points
+bontoJR
+7 hours ago
+7 comments
+13.
+Beej's Guide to Network Programming (2012)
+100 points
+hikz
+8 hours ago
+21 comments
+14.
+Show HN: Startup Timelines
+80 points
+bakztfuture
+8 hours ago
+22 comments
+15.
+Pingo: Plugins for Go
+62 points
+paskaahuomenta
+7 hours ago
+17 comments
+16.
+MESSENGER Comes to a Crashing End on Thursday
+17 points
+dnetesn
+3 hours ago
+2 comments
+17.
+Under Pressure
+463 points
+FatalLogic
+13 hours ago
+77 comments
+18.
+Why Do You Need PGP? (1994)
+16 points
+raldu
+3 hours ago
+1 comment
+19.
+Bimodal Salary Distribution for New Law School Graduates
+48 points
+brudgers
+7 hours ago
+35 comments
+20.
+CitusDB 4.0, pg_shard 1.1, and cstore 1.2 are out. What's next?
+42 points
+pykello
+4 hours ago
+6 comments
+21.
+Announcing the new version of SecureDrop
+9 points
+tux
+4 hours ago
+discuss
+22.
+Intemperate Planet: How Natural Systems Magnify the Effects of Global Warming
+8 points
+dnetesn
+4 hours ago
+discuss
+23.
+As Cognition Slips, Financial Skills Are Often the First to Go
+19 points
+pif
+7 hours ago
+1 comment
+24.
+FourD.js: A dynamic graph visualization library
+15 points
+lowrekey
+7 hours ago
+discuss
+25.
+Maybe weve not improved things as much as we think we have with Devops?
+42 points
+michaelbiven
+4 hours ago
+31 comments
+26.
+Startup attempting to use drones to plant 36,000 trees a day
+293 points
+nstart
+14 hours ago
+118 comments
+27.
+China rates its own citizens  including online behaviour
+177 points
+vincvinc
+8 hours ago
+126 comments
+28.
+Automated code review for Python, Django, etc.
+60 points
+cneumann81
+6 hours ago
+39 comments
+29.
+What If Students Could Fire Their Professors?
+68 points
+ColinWright
+7 hours ago
+143 comments
+30.
+Ask HN: How do you log application events?
+200 points
+GaiusCoffee
+15 hours ago
+96 comments
+31.
+Amateur Radio in Play in Aftermath of Nepal Earthquake
+92 points
+anaxag0ras
+11 hours ago
+58 comments
+32.
+Bringing the Liberal Arts to Engineering Education
+6 points
+petethomas
+5 hours ago
+discuss
+33.
+Deploy a Dropwizard Unikernel to AWS
+27 points
+axelfontaine
+9 hours ago
+10 comments
+34.
+Interview: Eben Upton on the design of the RPi2, computer speed and success
+8 points
+benev
+5 hours ago
+discuss
+35.
+This Is How Fast America Changes Its Mind
+219 points
+dataminer
+7 hours ago
+100 comments
+36.
+Open Source at Microsoft: The Next Chapter for Microsoft Open Technologies
+11 points
+numo16
+41 minutes ago
+3 comments
+37.
+StatusPage.io (YC S13) Is Hiring Bit Farmers in Denver and San Francisco
+38.
+Turns Out Satellites Work Great for Mapping Earthquakes
+21 points
+ghosh
+9 hours ago
+2 comments
+39.
+A Visual Explanation of OLS Regression
+19 points
+vicapow
+3 hours ago
+4 comments
+40.
+The Geek Code
+51 points
+sp8
+8 hours ago
+23 comments
+41.
+Lessons learned hacking on GitHub Pages for six months
+10 points
+benbalter
+2 hours ago
+discuss
+42.
+Ethos Deeply Integrated Distributed Types [pdf]
+18 points
+luu
+8 hours ago
+3 comments
+43.
+Doing a Job (1982)
+3 points
+glennericksen
+53 minutes ago
+1 comment
+44.
+Show HN: Getting started with Go and Martini
+28 points
+j_mcnally
+5 hours ago
+17 comments
+45.
+PCI DSS v3.1: SSL and early TLS no longer considered strong crypto [pdf]
+19 points
+oxalo
+5 hours ago
+2 comments
+46.
+Less is Moore
+4 points
+sgentle
+1 hour ago
+discuss
+47.
+Little libraries
+31 points
+Ygg2
+10 hours ago
+3 comments
+48.
+The People Who Risk Jail to Maintain the Tor Network
+5 points
+Errorcod3
+2 hours ago
+2 comments
+49.
+Encrypting Your Laptop Like You Mean It
+18 points
+etiam
+5 hours ago
+discuss
+50.
+Random Points on a Sphere
+117 points
+santaclaus
+14 hours ago
+62 comments
+51.
+What every programmer should know about solid-state drives
+3 points
+mustapha
+1 hour ago
+discuss
+52.
+Overstock Files to Offer Stock That Works Like Bitcoin
+8 points
+kposehn
+2 hours ago
+2 comments
+53.
+Why do women have periods when most animals don't?
+69 points
+dataminer
+3 hours ago
+53 comments
+54.
+FOAM: New JavaScript Framework by Google Engineers
+131 points
+oscarfr
+11 hours ago
+94 comments
+55.
+The Supervillain's Guide to Saving the Internet
+8 points
+edavis
+3 hours ago
+discuss
+56.
+Reenix: Implementing a Unix-Like Operating System in Rust [pdf]
+7 points
+steveklabnik
+2 hours ago
+discuss
+57.
+A Comparison of 5 Uniprocessor OS Scheduling Policies
+24 points
+silentbicycle
+6 hours ago
+1 comment
+58.
+Refinement types in Haskell as a library
+3 points
+nikita-volkov
+1 hour ago
+discuss
+59.
+Show HN: An opinionated approach to have type safety in native JavaScript
+16 points
+walterra
+5 hours ago
+2 comments
+60.
+Ask HN: Do you help beggars?
+8 points
+xoail
+1 hour ago
+10 comments
+61.
+Senior Front End  EasyPost (YC S13) Hiring
+62.
+Death for stealing candles
+71 points
+ghosh
+13 hours ago
+58 comments
+63.
+In Battle Against Alzheimers, Heres Ground Zero
+17 points
+kjhughes
+8 hours ago
+3 comments
+64.
+Linux-running MIPS CPU available for free to universities  full Verilog code
+66 points
+alexvoica
+14 hours ago
+25 comments
+65.
+Location Is Your Most Critical Data
+12 points
+ghosh
+9 hours ago
+2 comments
+66.
+Ask HN: How have you burned bridges with people?
+8 points
+workerdee
+1 hour ago
+6 comments
+67.
+Pointer-less Scapegoat Trees
+15 points
+jsnell
+9 hours ago
+discuss
+68.
+What would be your ideal programming language?
+5 points
+WillHuxtable
+2 hours ago
+discuss
+69.
+Show HN: Design your own thin wallet
+7 points
+devinmontgomery
+4 hours ago
+1 comment
+70.
+Docker without Docker
+658 points
+deepakprakash
+1 day ago
+91 comments
+71.
+Ask HN: How much money are you making as an indie mobile app developer?
+27 points
+alc90
+5 hours ago
+7 comments
+72.
+Race conditions on Facebook, DigitalOcean and others (fixed)
+285 points
+franjkovic
+19 hours ago
+87 comments
+73.
+Lynis  Security auditing tool for Unix/Linux systems
+64 points
+blacksqr
+19 hours ago
+8 comments
+74.
+META II: Digital Vellum in the Digital Scriptorium
+11 points
+zvrba
+10 hours ago
+discuss
+75.
+Sendgrid Security Incident
+3 points
+JonoBB
+7 minutes ago
+discuss
+76.
+The Injector: A New Executor for Java
+6 points
+_benedict
+4 hours ago
+discuss
+77.
+The Heterotopia of Facebook
+17 points
+uxhacker
+9 hours ago
+discuss
+78.
+'Apple doesnt care': Why one longtime indie roleplaying game maker has left iOS
+4 points
+Gbits
+2 hours ago
+4 comments
+79.
+Pre-Pooping Your Pants with Rust
+116 points
+Manishearth
+13 hours ago
+90 comments
+80.
+How Facebook's GraphQL Will Change Back End Development
+6 points
+ville
+5 hours ago
+discuss
+81.
+Update on Security Incident and Additional Security Measures
+10 points
+dpieri
+1 hour ago
+1 comment
+82.
+Amazon Machine Learning: use cases and a real example in Python
+10 points
+alexcasalboni
+1 hour ago
+2 comments
+83.
+TimesNewRoman on Your Rsum Is Like Putting on Sweatpants for a Job Interview
+3 points
+Errorcod3
+26 minutes ago
+1 comment
+84.
+Security Breach at Sendgrid
+6 points
+mef
+55 minutes ago
+discuss
+85.
+How feasible would it be to introduce online voting?
+11 points
+lorddoig
+9 hours ago
+15 comments
+86.
+White House Takes Security Pitch to Silicon Valley
+90 points
+aarestad
+18 hours ago
+58 comments
+87.
+Why Cell Phones Can't Cause Cancer, but Bananas Can
+17 points
+Mitchhhs
+5 hours ago
+16 comments
+88.
+WordPress XSS 0day
+5 points
+jchavannes
+1 hour ago
+1 comment
+89.
+Grammar: What exactly are our rules comprised of?
+12 points
+edward
+12 hours ago
+7 comments
+90.
+Google Faces Enormous Forces in Fight Over the Future of Android
+49 points
+simas
+4 hours ago
+52 comments
+91.
+Why cant we read anymore?
+305 points
+subnaught
+1 day ago
+173 comments
+92.
+YourMechanic (YC W12) is hiring full stack engineers
+93.
+The Mahler Project  The ZX Spectrum Orchestra [video]
+52 points
+AnkhMorporkian
+20 hours ago
+19 comments
+94.
+DNA is a fractal antenna in electromagnetic fields (2011)
+3 points
+hachiya
+2 hours ago
+1 comment
+95.
+How to Attract Female Engineers
+9 points
+kanamekun
+7 hours ago
+discuss
+96.
+Show HN: Awesome CTF  A curated list of CTF libraries, resources and softwares
+3 points
+apsdehal
+3 hours ago
+discuss
+97.
+Facebook's Messenger adds video chat
+3 points
+jaboutboul
+1 hour ago
+discuss
+98.
+Motel Decides to Just Start Faxing All Guest Info to Local Police Every Night
+8 points
+Errorcod3
+2 hours ago
+discuss
+99.
+In the basement with transhumanisms DIY cyberpunks
+43 points
+jonbaer
+21 hours ago
+9 comments
+100.
+Paradox: 1  1/2 and 1/3  1/4 and . . . = 0
+11 points
+ColinWright
+11 hours ago
+13 comments
+101.
+The Problems with Genius, Part One: Online Annotations, Consensus, and Bias
+3 points
+mdlincoln
+2 hours ago
+discuss
+102.
+People Who Like This Also Like
+9 points
+benfrederickson
+1 hour ago
+discuss
+103.
+F-35 Engines from United Technologies Called Unreliable by GAO
+63 points
+julio_iglesias
+6 hours ago
+75 comments
+104.
+Nobody Hires Steve Jobs  Radical UX
+8 points
+avalot
+3 hours ago
+1 comment
+105.
+Ask HN: What do you do when you're depressed for a day?
+3 points
+anonyfounder2
+2 hours ago
+7 comments
+106.
+Secrets in the Ice
+6 points
+dnetesn
+10 hours ago
+discuss
+107.
+Avoid the Apply to Present and Angel Pitch Contest Event Scams
+102 points
+bootload
+17 hours ago
+40 comments
+108.
+WordPress 4.2 Stored XSS
+5 points
+mpalme
+7 hours ago
+2 comments
+109.
+Announcing the Google Patent Purchase Promotion
+9 points
+chkuendig
+4 hours ago
+discuss
+110.
+Scaffold a Flask Project
+18 points
+mjhea0
+6 hours ago
+discuss
+111.
+Gabe Newell addresses controversy over paid Steam mods
+7 points
+protomyth
+2 hours ago
+discuss
+112.
+Drug-buying robot arrested in Switzerland
+4 points
+arosaned
+2 hours ago
+1 comment
+113.
+Ask HN: What are the best product landing pages you've stumbled upon?
+318 points
+halayli
+1 day ago
+204 comments
+114.
+Collin Burns in 5.253 seconds sets Rubik's Cube time record
+4 points
+Errorcod3
+2 hours ago
+discuss
+115.
+Harvard Business School students turned class trip into CloudFlare
+3 points
+prostoalex
+3 hours ago
+discuss
+116.
+My Top 100 Programming, Computer and Science Books: Part One
+247 points
+bootload
+1 day ago
+59 comments
+117.
+I tried to make a meme and lost my mind
+5 points
+mfortki
+5 hours ago
+discuss
+118.
+Finally, a back to top button that behaves like a real elevator
+35 points
+binjoi
+6 hours ago
+10 comments
+119.
+How Minimalism Becomes Homogeneous and Unfriendly
+4 points
+allenc
+2 hours ago
+1 comment
+120.
+Help kids from low income communities access careers in tech by hiring them
+53 points
+ScriptEd
+6 hours ago
+13 comments
+121.
+Google will pay you to keep your ideas off patent trolls
+5 points
+ub
+3 hours ago
+1 comment
+122.
+Last 48 hours in Kathmandu  a Mathematician's analysis of the earthquakes
+28 points
+anaxag0ras
+15 hours ago
+5 comments
+123.
+If your results are highly counterintuitive
+54 points
+luu
+21 hours ago
+22 comments
+124.
+Wikipedia Browser for TRS-80 Model I
+34 points
+pskisf
+16 hours ago
+10 comments
+125.
+Data Science from Scratch: First Principles with Python
+225 points
+joelgrus
+1 day ago
+40 comments
+126.
+UBeams ultrasound wireless charging is real and about to be funded
+12 points
+ohaikbai
+16 hours ago
+12 comments
+127.
+Show HN: A tool that transforms your whole list with just one example
+755 points
+createmyaccount
+3 days ago
+144 comments
+128.
+Next-Generation Cloud: The Rise of the Unikernel
+132 points
+sciurus
+1 day ago
+32 comments
+129.
+A web-reading bot made millions on the options market
+193 points
+prostoalex
+1 day ago
+124 comments
+130.
+Ask HN: Does anyone have an old computer laying around unused in Brisbane, AU?
+71 points
+DonaldH
+13 hours ago
+35 comments
+131.
+What happens when you hit Ctrl-C?
+21 points
+plaban123
+1 day ago
+6 comments
+132.
+Go-fuzz: randomized testing for Go
+7 points
+aleksi
+7 hours ago
+discuss
+133.
+Emdrive  A New Concept in Spacecraft Propulsion
+3 points
+jonbaer
+4 hours ago
+discuss
+134.
+Whales of the Web
+3 points
+krg
+4 hours ago
+discuss
+135.
+Incredible Calbuco Vulcan eruption's images
+3 points
+pyabo
+6 hours ago
+discuss
+136.
+When is proof by contradiction necessary?
+4 points
+luu
+4 hours ago
+discuss
+137.
+Its Time to Stop Pretending ESports Are Real Sports
+4 points
+rkda
+3 hours ago
+8 comments
+138.
+How the language you speak changes your view of the world
+5 points
+paublyrne
+4 hours ago
+discuss
+139.
+How does D improve on C++17?
+127 points
+curtis
+22 hours ago
+68 comments
+140.
+Death by Delete
+4 points
+henk53
+3 hours ago
+1 comment
+141.
+Version Control; Or, What Does It Mean to Publish a Scholarly Article?
+3 points
+benbreen
+5 hours ago
+discuss
+142.
+The art of butchery
+64 points
+sergeant3
+1 day ago
+43 comments
+143.
+The Guts of Spring
+3 points
+diodorus
+5 hours ago
+discuss
+144.
+Ask HN: Who's your role model?
+39 points
+haack
+7 hours ago
+51 comments
+145.
+Declassified Report Shows Doubts About Value of NSAs Warrantless Spying
+198 points
+jacquesm
+1 day ago
+69 comments
+146.
+Teen beats world record, solves Rubik's Cube in 5.25 seconds
+6 points
+agonzalezro
+4 hours ago
+discuss
+147.
+A Test Drive of the Death-Trap Car Designed by Buckminster Fuller
+9 points
+ColinWright
+5 hours ago
+4 comments
+148.
+Burdened with Debt, Law School Graduates Struggle in Job Market
+53 points
+HarryHirsch
+20 hours ago
+44 comments
+149.
+Forgotten Corners of World of Warcraft
+306 points
+Thevet
+3 days ago
+174 comments
+150.
+Ask HN: Pointless Pentesting S3?
+3 points
+nateguchi
+6 hours ago
+3 comments
+151.
+Security risks and mitigations recommended by the EU against mass surveillance [pdf]
+3 points
+tonyhb
+4 hours ago
+discuss
+152.
+Big Datas big libertarian lie: the Silicon Valley ethical overhaul we need
+8 points
+walterbell
+6 hours ago
+discuss
+153.
+Dependent builds in Travis
+3 points
+smcgivern
+4 hours ago
+discuss
+154.
+Show HN: Tokyo Interactive Rent Finder Map
+6 points
+shadylane
+15 hours ago
+3 comments
+155.
+A Commemoration for Rachel Bryk
+63 points
+aw3c2
+1 day ago
+3 comments
+156.
+On Haskell, Ruby, and Cards Against Humanity
+56 points
+luu
+6 hours ago
+60 comments
+157.
+Planimeter
+13 points
+craigjb
+21 hours ago
+1 comment
+158.
+Learn X in Y minutes
+121 points
+danboarder
+1 day ago
+18 comments
+159.
+The 26 martyrs of Nagasaki: Christian persecution in early modern Japan
+3 points
+benbreen
+6 hours ago
+discuss
+160.
+College Is (Almost) Obsolete
+39 points
+diego
+4 hours ago
+84 comments
+161.
+The Invisible Hand of Super Metroid
+189 points
+jsnell
+2 days ago
+53 comments
+162.
+Mindfulness therapy as good as medication for chronic depression  study
+131 points
+bsbechtel
+1 day ago
+45 comments
+163.
+Pure Python Vim clone
+251 points
+efbbbf
+1 day ago
+75 comments
+164.
+Linode Unveils Singapore Datacenter
+13 points
+thatsafeature
+6 hours ago
+discuss
+165.
+The Myth of Working Your Way Through College
+5 points
+ryan_j_naughton
+5 hours ago
+discuss
+166.
+A new country born in the restless Balkans
+8 points
+3gina1
+6 hours ago
+1 comment
+167.
+Gigantic R/C Jet Turbine Powered SR-71 Blackbird
+71 points
+electic
+20 hours ago
+33 comments
+168.
+A systems theorist explains whats wrong with standard models of intelligence
+106 points
+dnetesn
+1 day ago
+38 comments
+169.
+TV maker Vizio may finally get paid after beating 17th patent troll
+181 points
+nkurz
+2 days ago
+66 comments
+170.
+What JDK 9 sleeper Feature REPL Will Mean for Java People
+5 points
+larleys
+6 hours ago
+discuss
+171.
+An App Launch Guide for Indie Developers
+175 points
+avinassh
+2 days ago
+20 comments
+172.
+TRAI website hacked after regulator makes 1M email IDs public
+3 points
+mavihs
+6 hours ago
+discuss
+173.
+OpenBSD's safe, new file(1) implementation
+124 points
+zdw
+1 day ago
+80 comments
+174.
+Ask HN: How much do you care about security while building an MVP?
+11 points
+esteer
+12 hours ago
+15 comments
+175.
+Ask HN: Did you see increase in site usage when making websites mobile friendly?
+6 points
+xyby
+12 hours ago
+3 comments
+176.
+Defenders think in lists. Attackers think in graphs
+94 points
+colinprince
+1 day ago
+7 comments
+177.
+How the Brain Changes When You Become an Expert Programmer
+4 points
+ZaneClaes
+6 hours ago
+discuss
+178.
+USGS Aftershock Forecast for the Magnitude 7.8 Nepal earthquake
+10 points
+stevewilhelm
+13 hours ago
+discuss
+179.
+JavaScript and Type Thinking
+4 points
+skiskilo
+6 hours ago
+discuss
+180.
+Things Engineers Do to Move to the US
+7 points
+freedaemon
+7 hours ago
+6 comments
+181.
+Swanest  Online Financial Coach App
+3 points
+YouriT
+8 hours ago
+6 comments
+182.
+Show HN: Tabletone  live looping in JavaScript
+30 points
+sgentle
+23 hours ago
+10 comments
+183.
+Seastar: C++ framework for high-performance servers
+100 points
+panic
+1 day ago
+23 comments
+184.
+How Companies Like Facebook Are Shaped by the Programming Languages They Use
+4 points
+napolux
+6 hours ago
+discuss
+185.
+Indias Flipkart to shut down website, thanks to popularity of mobile
+91 points
+rohanaurora
+1 day ago
+69 comments
+186.
+What is open source? Licensing, history, and more
+3 points
+Atiim
+6 hours ago
+discuss
+187.
+40 CS Concepts Explained with Analogies
+5 points
+dreamsparks
+6 hours ago
+discuss
+188.
+Police Body Cameras: What Good Is a Video You Can't See?
+49 points
+pmiller2
+20 hours ago
+56 comments
+189.
+Ask HN: Working on startup on work issued computer
+13 points
+hbhakhra
+16 hours ago
+22 comments
+190.
+Used ThinkPad Buyer's Guide
+232 points
+brudgers
+2 days ago
+169 comments
+191.
+Flywheel: Google's Data Compression Proxy for the Mobile Web
+121 points
+kid0m4n
+1 day ago
+60 comments
+192.
+Your big data toolchain is a big security risk
+70 points
+BCM43
+1 day ago
+29 comments
+193.
+Foundations of Data Science by John Hopcroft [pdf]
+117 points
+fangwang
+2 days ago
+24 comments
+194.
+Ask HN: I am about to be fired. What should I do?
+187 points
+s_q_b
+1 day ago
+187 comments
+195.
+Show HN: Betty, Open Source Google Voice with Receptionist Abilities
+90 points
+vvoyer
+1 day ago
+10 comments
+196.
+Comparing the PHP 7 and Hack Type Systems
+46 points
+jazzdan
+23 hours ago
+34 comments
+197.
+Ask HN: My SaaS is stuck at $10K MRR, now what?
+12 points
+flashproblem
+1 day ago
+13 comments
+198.
+Elixir vs. Erlang: a question of momentum
+239 points
+davidw
+4 days ago
+128 comments
+199.
+College for the masses
+26 points
+Futurebot
+23 hours ago
+20 comments
+200.
+Heap is hiring engineers to build a new approach to analytics
+201.
+Hacking for Defense in Silicon Valley
+24 points
+drclifton
+1 day ago
+4 comments
+202.
+Show HN: Real-Time Video Chroma Key with Delta-E Formula
+27 points
+zschuessler
+23 hours ago
+6 comments
+203.
+Why did the chicken cross the world?
+11 points
+eplanit
+17 hours ago
+discuss
+204.
+Looking Up Symptoms Online? These Companies Are Tracking You
+180 points
+sinak
+1 day ago
+101 comments
+205.
+Audi just created diesel fuel from air and water
+14 points
+Mojah
+11 hours ago
+8 comments
+206.
+Non-constant constant-expressions in C++
+69 points
+refp
+1 day ago
+16 comments
+207.
+Task  a Sweet.js macro for CSP in JavaScript
+15 points
+sriharis
+1 day ago
+1 comment
+208.
+Russian Hackers Read Obamas Unclassified Emails, Officials Say
+70 points
+tysone
+1 day ago
+44 comments
+209.
+Elevator.js
+435 points
+ozh
+5 days ago
+66 comments
+210.
+The state of binary data in the browser
+23 points
+nolanl
+23 hours ago
+2 comments
+211.
+The state of binary data in the browser
+23 points
+nolanl
+23 hours ago
+2 comments
+212.
+The Invented History of 'The Factory Model of Education'
+80 points
+benbreen
+1 day ago
+13 comments
+213.
+The International Temperature Data Review Project
+19 points
+mkempe
+22 hours ago
+12 comments
+214.
+Contrast Rebellion
+97 points
+kartikkumar
+1 day ago
+66 comments
+215.
+Tricked out iterators in Julia
+24 points
+tokai
+1 day ago
+1 comment
+216.
+Rewriting a large production system in Go (2013)
+86 points
+kid0m4n
+1 day ago
+17 comments
+217.
+FizzBuzz in Too Much Detail
+129 points
+boyakasha
+1 day ago
+52 comments
+218.
+Dwarf Fortress is building a chemistry simulation
+14 points
+johntaitorg
+1 day ago
+1 comment
+219.
+The Latest Fashion, Trending on Google
+3 points
+carlchenet
+13 hours ago
+discuss
+220.
+Computers Beating Humans at Advanced Chess
+22 points
+ColinWright
+1 day ago
+30 comments
+221.
+The Hobos of Instagram
+56 points
+behoove
+1 day ago
+10 comments
+222.
+Segment is hiring engineers to build the future of analytics infrastructure
+223.
+Plain Threads are the GOTO of todays computing [video]
+41 points
+adamnemecek
+1 day ago
+11 comments
+224.
+Unpacking CCTV Firmware
+33 points
+mortenlarsen
+1 day ago
+8 comments
+225.
+Today is Debian 8 release day
+357 points
+xyby
+2 days ago
+140 comments
+226.
+Aegisub: Anime subtitling software
+3 points
+pandatigox
+16 hours ago
+discuss
+227.
+Two guys has just put an X-Wing into Earth's orbit
+3 points
+graghav
+9 hours ago
+1 comment
+228.
+How Apple Is Building an Ecosystem for the Body
+8 points
+sarahconnor
+21 hours ago
+discuss
+229.
+Government body has put 1M+ email ids in public, who supported net nutrality
+4 points
+vishnuharidas
+10 hours ago
+1 comment
+230.
+Ask HN: Those who quit their jobs to travel the world, how did it go?
+219 points
+temp_-_
+2 days ago
+159 comments
+231.
+How We Boosted Counting Performance by 7410x with Redis
+9 points
+shmatt
+7 hours ago
+discuss
+232.
+Dogelang
+179 points
+alipang
+3 days ago
+36 comments
+233.
+Wordpress, Docker, and You
+3 points
+slogsdon
+23 hours ago
+discuss
+234.
+Trying to Revolutionize Condoms
+16 points
+prostoalex
+1 day ago
+7 comments
+235.
+Voyager 1 and 2 Distance
+7 points
+tux
+19 hours ago
+2 comments
+236.
+Corinthian to close its last schools; 10,000 students in state displaced
+4 points
+praneshp
+14 hours ago
+discuss
+237.
+Transport, Rail, Unintended Consequences, and Cascade Failures
+13 points
+dredmorbius
+1 day ago
+discuss
+238.
+Ask HN: How to keep yourself prepared for potential interviews?
+79 points
+hidro
+1 day ago
+56 comments
+239.
+Porting Half Life with Xash3D: Not Strictly Straightforward
+13 points
+ekianjo
+1 day ago
+3 comments
+240.
+Lessons I Learned from Co-Founding a Tech Startup
+65 points
+greenyoda
+1 day ago
+36 comments
+241.
+The Bot Bubble: Click Farms Have Inflated Social Media Currency
+105 points
+dredmorbius
+1 day ago
+62 comments
+242.
+Process.gsub lets you search and replace within your process's live memory
+5 points
+tinco
+18 hours ago
+discuss
+243.
+A minimal blog engine written in Go, compatible with Ghost themes
+275 points
+Maksadbek
+2 days ago
+91 comments
+244.
+When Exxon wanted to be a personal computing revolutionary
+40 points
+Hooke
+1 day ago
+11 comments
+245.
+High-scoring grant applications yield more highly cited papers
+12 points
+Thevet
+1 day ago
+3 comments
+246.
+Rkt 0.5.4  Repository authentication, port forwarding and more
+60 points
+agonzalezro
+1 day ago
+8 comments
+247.
+Christopher Alexanders Distribution of Towns
+11 points
+chrismealy
+1 day ago
+4 comments
+248.
+Polyglot Notebook-style development environment for large and complex datasets
+11 points
+pablobaz
+1 day ago
+2 comments
+249.
+CSV Challenge
+175 points
+xatxat
+2 days ago
+80 comments
+250.
+Wrote to TRAI on net neutrality? Your email address is now public
+4 points
+shagunsodhani
+13 hours ago
+discuss
+251.
+Prof. Sussman's Reading List
+436 points
+jonnybgood
+6 days ago
+74 comments
+252.
+Congress: Stop Trying to Limit EFFs Ability to Challenge Patents
+263 points
+DiabloD3
+3 days ago
+64 comments
+253.
+Identifying manuscripts via social media
+5 points
+diodorus
+20 hours ago
+discuss
+254.
+Audi have successfully made diesel fuel from carbon dioxide and water
+9 points
+linux_devil
+14 hours ago
+discuss
+255.
+Deleting the Family Tree  Ancestry.com erased 10 years of correspondence
+189 points
+uptown
+3 days ago
+93 comments
+256.
+Show HN: Jammin  Build Extensible APIs with Express and Mongo
+16 points
+bbrennan
+2 days ago
+11 comments
+257.
+My rocky first 24 hours with the Apple watch
+8 points
+NelsonMinar
+1 day ago
+discuss
+258.
+Windows 10 Build 10061 has (limited) CardDAV and CalDAV support
+6 points
+fruux
+12 hours ago
+discuss
+259.
+Introducing Ubuntu Snappy
+5 points
+zackify
+14 hours ago
+discuss
+260.
+3D Food Printers Could Change What You Eat
+7 points
+prostoalex
+22 hours ago
+1 comment
+261.
+Gb  Project-based build tool for Go
+4 points
+rubiquity
+16 hours ago
+discuss
+262.
+Ralph  Aliases with Superpowers: Parameters, Sudo-Able, and More
+16 points
+qw3rtman
+23 hours ago
+4 comments
+263.
+What will C++17 be?
+122 points
+g1236627
+1 day ago
+79 comments
+264.
+Ask HN: What's the best referral bonus you have ever got?
+8 points
+pythoncloner
+16 hours ago
+4 comments
+265.
+Ubuntu 15.04 (Vivid Vervet) released
+14 points
+MarkJV
+18 hours ago
+3 comments
+266.
+Explained Visually is now open source
+161 points
+tilt
+2 days ago
+11 comments
+267.
+An alternative to shared libraries
+29 points
+Fenume
+1 day ago
+21 comments
+268.
+Computer Faces Poker Pros in No-Limit Texas HoldEm Competition
+33 points
+empressplay
+1 day ago
+17 comments
+269.
+Ask HN: How do you manage Wordpress?
+11 points
+scollins
+19 hours ago
+14 comments
+270.
+Rust once, run everywhere
+335 points
+steveklabnik
+3 days ago
+105 comments
+271.
+Rust once, run everywhere
+335 points
+steveklabnik
+3 days ago
+105 comments
+272.
+Becoming Productive in Haskell
+349 points
+pieceofpeace
+3 days ago
+199 comments
+273.
+Ask HN: Any Atlassian/HipChat employees willing to answer a couple questions?
+3 points
+loeschg
+16 hours ago
+1 comment
+274.
+Karl Ove Knausgaards My Struggle: Book 4
+29 points
+magda_wang
+1 day ago
+25 comments
+275.
+What's Wrong with This Dialog? (2010)
+10 points
+turrini
+1 day ago
+1 comment
+276.
+The Exile of the Bohemians
+29 points
+yirgacheffe
+1 day ago
+15 comments
+277.
+Syuzhet: Extraction of sentiment-based plot arcs from text
+7 points
+Turing_Machine
+1 day ago
+2 comments
+278.
+New Insight on Ground Shaking from Man-Made Earthquakes
+8 points
+Naushad
+1 day ago
+1 comment
+279.
+Checkr (YC S14) Is Hiring B2B Inside Sales
+280.
+The ENQUIRE System (1980)
+8 points
+marcopolis
+1 day ago
+discuss
+281.
+SpaceX Fined by OSHA for Safety Violations
+12 points
+stickydink
+1 day ago
+3 comments
+282.
+The Arch Way
+81 points
+dgeex
+1 day ago
+77 comments
+283.
+How gaming can improve our cognitive abilities
+7 points
+ekollar
+23 hours ago
+discuss
+284.
+How Sustainable Is PV Solar Power
+8 points
+stonlyb
+1 day ago
+1 comment
+285.
+Just Say No to More End-To-End Tests
+3 points
+henrik_w
+13 hours ago
+discuss
+286.
+NHL goal celebration hack: real-time machine learning and hue light show
+258 points
+cotsog
+5 days ago
+46 comments
+287.
+Show HN: HNTrends  Google Trends, but for Hacker News
+5 points
+ksowocki
+22 hours ago
+3 comments
+288.
+Beginners Guide to Mindfulness Meditation
+13 points
+greenjellybean
+17 hours ago
+discuss
+289.
+Show HN: A chrome extension that blocks Share/Like/Tweet this page widgets
+6 points
+david
+1 day ago
+3 comments
+290.
+Tesla site and Twitter account hacked
+16 points
+gabhubert
+1 day ago
+7 comments
+291.
+Ask HN: Short Programming Problems
+5 points
+mikeboydbrowne
+18 hours ago
+8 comments
+292.
+Ask HN: Future of Go?
+11 points
+humility
+23 hours ago
+9 comments
+293.
+How Kaspersky makes you vulnerable to the FREAK attack
+7 points
+hannob
+1 day ago
+1 comment
+294.
+T-Mobile: Calling and Texting Nepal Is Now Free for Customers
+6 points
+ryanwhitney
+16 hours ago
+discuss
+295.
+Four days of Go
+492 points
+wtbob
+5 days ago
+179 comments
+296.
+Towards Realtime Deformable Worlds: Why Tetrahedra Rule, Voxels Drool
+125 points
+Mithaldu
+3 days ago
+27 comments
+297.
+Markov Composer  Using machine learning and a Markov chain to compose music
+64 points
+vsakos
+2 days ago
+32 comments
+298.
+OSv, a new operating system for the cloud
+100 points
+xj9
+4 days ago
+29 comments
+299.
+Apple now rejecting apps with Pebble Smartwatch support
+700 points
+FreakyT
+4 days ago
+406 comments
+300.
+Version control, collaborative editing and undo
+90 points
+jscottmiller
+4 days ago
+24 comments
+301.
+Spherical Trigonometry, Circle Packing, and Lead Generation  A Journey
+39 points
+shayanjm
+3 days ago
+9 comments
+302.
+Wormholes Untangle a Black Hole Paradox
+30 points
+digital55
+3 days ago
+10 comments
+303.
+The great unraveling of globalization
+4 points
+Futurebot
+23 hours ago
+discuss
+304.
+My rocky first 24 hours with the Apple watch
+5 points
+smlacy
+16 hours ago
+2 comments
+305.
+Eff  A language for programming with algebraic effects and handlers
+72 points
+michaelsbradley
+3 days ago
+5 comments
+306.
+Show HN: Ambient soundscape generator for productivity
+43 points
+razbo
+2 days ago
+41 comments
+307.
+Event Handling in Elixir
+7 points
+dpeck
+1 day ago
+discuss
+308.
+Study finds we think better on our feet, literally
+29 points
+lelf
+2 days ago
+10 comments
+309.
+Show HN: I built a trend analyzer for HN and open sourced the data behind it
+4 points
+ksowocki
+17 hours ago
+discuss
+310.
+Relationships Are More Important Than Ambition (2013)
+142 points
+luckysahaf
+4 days ago
+80 comments
+311.
+Celebrated Pakistani female online activist Sabeen Mahmud dies in shooting
+3 points
+aceperry
+15 hours ago
+discuss
+312.
+Why I Regretted Hiring the Perfect Employee
+5 points
+ytNumbers
+16 hours ago
+4 comments
+313.
+Security in Plan 9 (2002)
+3 points
+vezzy-fnord
+21 hours ago
+2 comments
+314.
+Ask HN: I'm crap at maths but I seem to be a pretty good developer
+7 points
+forgottenacc56
+1 day ago
+6 comments
+315.
+Ask HN: I got rejected from Facebook, Dropbox, Microsoft, Quora, What's Wrong?
+35 points
+mohamedbassem
+7 hours ago
+91 comments
+316.
+Help Nepal Earthquake victims get food by donating to WFP
+3 points
+hemtros
+16 hours ago
+discuss
+317.
+FOAM Framework
+10 points
+insin
+1 day ago
+3 comments
+318.
+Yi: An Editor in Haskell for Haskell (2008) [pdf]
+7 points
+mschmo
+1 day ago
+1 comment
+319.
+SSH Agent Forwarding considered harmful
+67 points
+nodata
+4 days ago
+46 comments
+320.
+Google Fi Patent
+55 points
+empressplay
+2 days ago
+48 comments
+321.
+Google Sued by Job Candidate for Age Discrimination
+186 points
+molmalo
+3 days ago
+219 comments
+322.
+What Changed at Y Combinator After 7 Years
+73 points
+ivankirigin
+4 days ago
+28 comments
+323.
+Show HN: Continous Heart Rate for Android Wear and Apple Watch
+62 points
+brandonb
+3 days ago
+53 comments
+324.
+Why We Are No Longer Developing for the iPad
+406 points
+mason240
+10 days ago
+486 comments
+325.
+Cloud security reaches silicon
+10 points
+user_235711
+3 days ago
+discuss
+326.
+An Introverts Guide to Greeting Strangers, Vague Acquaintances, and Friends
+5 points
+Futurebot
+17 hours ago
+discuss
+327.
+My Summer Car Game
+169 points
+pmcpinto
+2 days ago
+30 comments
+328.
+Magento vulnerability analysis
+22 points
+EdwardDiego
+1 day ago
+10 comments
+329.
+That Way Were All Writing Now
+68 points
+bayonetz
+1 day ago
+41 comments
+330.
+Protect Your Cloud-Hosted Web Applications from DDoS Attacks
+4 points
+danboarder
+23 hours ago
+2 comments
+331.
+Ting Gigabit Fiber Internet
+150 points
+tux
+2 days ago
+62 comments
+332.
+When the Computer Takes Over the Teacher
+8 points
+Misha_B
+1 day ago
+1 comment
+333.
+Apple Wont Always Rule. Just Look at IBM
+11 points
+vinhnx
+1 day ago
+5 comments
+334.
+Inside Apple's new folding USB Charger (UK plug) / teardown
+4 points
+kens
+1 day ago
+discuss
+335.
+Farmers unable to repair their tractors due to DRM
+3 points
+josho
+18 hours ago
+discuss
+336.
+A modern responsive front-end framework based on Material Design
+212 points
+czottmann
+3 days ago
+94 comments
+337.
+The Valuation Boost Needed to Justify YC
+31 points
+ivankirigin
+5 days ago
+19 comments
+338.
+Conversation with a Tech Support Scammer
+4 points
+dsr12
+1 day ago
+discuss
+339.
+Ask HN: Students, Scientists, and Engineers: Need to Speed Up Your Programs?
+15 points
+lordvon
+1 day ago
+6 comments
+340.
+Nepal Earthquake fund from Entrepreneurs
+4 points
+kishanuxcam
+18 hours ago
+1 comment
+341.
+NeXT Logo Presentation by Paul Rand to Steve Jobs [pdf]
+57 points
+michaelpinto
+1 day ago
+39 comments
+342.
+Pipelines for Clojure and ClojureScript
+10 points
+coding4all
+1 day ago
+discuss
+343.
+Indian mobile games approach critical mass
+7 points
+dnetesn
+1 day ago
+1 comment
+344.
+Diane Bryant Talks About Swearing Like a Sailor and Intels Transformation
+11 points
+tomerv
+1 day ago
+discuss
+345.
+M7.9 Earthquake in Nepal
+217 points
+dilipray
+2 days ago
+77 comments
+346.
+Thinking Like an Investor: An interview with David Lee
+8 points
+drt
+1 day ago
+discuss
+347.
+How the Blockchain will kill Email
+7 points
+hajak
+23 hours ago
+discuss
+348.
+Scale your Docker containers with Mesos
+3 points
+mhausenblas
+23 hours ago
+discuss
+349.
+Twilight Zone meets Escher meets Dali in the philosophical comic strip the bus
+61 points
+jonbaer
+2 days ago
+6 comments
+350.
+The typography of source code
+4 points
+lukesan
+22 hours ago
+discuss
+351.
+The real problem with Formula 1
+14 points
+dmmalam
+1 day ago
+1 comment
+352.
+Scientists skeptical about Theranos blood test
+87 points
+walterbell
+1 day ago
+92 comments
+353.
+Ask HN: Need advice on Programming
+8 points
+shire
+1 day ago
+7 comments
+354.
+6-Month-Old Babies Are Now Using Tablets and Smartphones
+16 points
+mikemoka
+1 day ago
+15 comments
+355.
+Ask HN: One large portfolio project; or multiple, smaller projects?
+3 points
+kidlogic
+21 hours ago
+3 comments
+356.
+When Is Cheryl's Birthday?
+236 points
+jonp
+2 days ago
+127 comments
+357.
+Have I got a hearing aid for you
+3 points
+femto
+19 hours ago
+3 comments
+358.
+OpenID 2.0 for Google Accounts has gone away
+5 points
+js4all
+22 hours ago
+discuss
+359.
+What happened to Google+?
+7 points
+uladzislau
+1 day ago
+3 comments
+360.
+Show HN: Turn your work into a game, but don't tell your boss
+4 points
+itemz
+1 day ago
+discuss
+361.
+Rails Authentication with OAuth 2.0 and OmniAuth
+3 points
+seijaku
+20 hours ago
+discuss
+362.
+Incentivizing Quality and Impact in Computing Research
+7 points
+luu
+1 day ago
+1 comment
+363.
+Ask HN: Ever had a lucid dream? Write about your best one
+5 points
+theBeaver
+1 day ago
+4 comments
+364.
+How Agile Is Destroying Management
+3 points
+Ovid
+1 day ago
+6 comments
+365.
+Ember.js: The Ever Evolving Rock
+4 points
+sergiotapia
+20 hours ago
+discuss
+366.
+Project Fi by Google
+1105 points
+frewsxcv
+5 days ago
+580 comments
+367.
+How to live large in a tiny house
+155 points
+wheresclark
+2 days ago
+96 comments
+368.
+Carnival Cash: The Cult of Seniority
+47 points
+nkurz
+2 days ago
+46 comments
+369.
+Show HN: TravelGreen, offset your Uber rides
+10 points
+dgarbvt
+1 day ago
+2 comments
+370.
+I Have an Apple Watch, and I'm Ashamed to Wear It
+4 points
+alariccole
+1 day ago
+3 comments
+371.
+Is Git a Block Chain?
+126 points
+argon
+2 days ago
+51 comments
+372.
+Pidgins and Creoles
+3 points
+pepgma
+1 day ago
+discuss
+373.
+Sorry grandma, That $42M slot machine jackpot was a computer glitch
+5 points
+jfuhrman
+22 hours ago
+discuss
+374.
+Step-by-step JSON client/server tutorial in Rust
+18 points
+steveklabnik
+2 days ago
+1 comment
+375.
+Show HN: A random startup generator
+600 points
+LikeMyBread
+4 days ago
+188 comments
+376.
+Dropbox Deprecating the Sync and Datastore APIs
+9 points
+at7302
+3 days ago
+3 comments
+377.
+Supermodels join drive for women to embrace coding
+7 points
+forloop
+2 days ago
+1 comment
+378.
+React Native v0.4
+109 points
+dandelany
+10 days ago
+36 comments
+379.
+Bottled Water: Stream real-time PostgreSQL change events to Kafka
+28 points
+linkmotif
+4 days ago
+8 comments
+380.
+Redis author just released Disque, a distributed message queue
+76 points
+djanowski
+3 hours ago
+2 comments
+381.
+SwiftKey Emoji Report
+3 points
+GaiusCoffee
+3 days ago
+discuss
+382.
+Ask HN: What are you reading?
+4 points
+classicsnoot
+19 hours ago
+3 comments
+383.
+Giant Lego Machine Generates Churning House Tracks
+34 points
+latchkey
+2 days ago
+5 comments
+384.
+YC Interview Prep Tool
+103 points
+apoorvamehta
+1 day ago
+14 comments
+385.
+Black box optimization competition
+32 points
+silentvoice
+2 days ago
+21 comments
+386.
+Behavior trees for AI: How they work
+51 points
+danso
+2 days ago
+5 comments
+387.
+Ask HN: How do I learn how to become a good sysadmin?
+148 points
+nstart
+5 days ago
+118 comments
+388.
+Firestr: encrypted P2P chat and Lua application platform
+94 points
+akkartik
+2 days ago
+36 comments
+389.
+A culture that attracts quality candidates
+29 points
+playing_colours
+2 days ago
+17 comments
+390.
+The American Gustation Crisis of 1985
+30 points
+ca98am79
+2 days ago
+21 comments
+391.
+A culture that attracts quality candidates
+29 points
+playing_colours
+2 days ago
+17 comments
+392.
+The American Gustation Crisis of 1985
+30 points
+ca98am79
+2 days ago
+21 comments
+393.
+Show HN: Askmee
+32 points
+dontpanicgr
+2 days ago
+18 comments
+394.
+HP-01 wrist instrument, 1977
+72 points
+denzil_correa
+2 days ago
+21 comments
+395.
+The sad state of sysadmin in the age of containers
+962 points
+Spakman
+5 days ago
+443 comments
+396.
+This is what you sound like when refusing to address technical debt
+47 points
+henk53
+1 day ago
+6 comments
+397.
+Driving React Native with ClojureScript / Om
+6 points
+macco
+1 day ago
+discuss
+398.
+Zappos CEO Tony Hsieh: Adopt Holacracy Or Leave
+113 points
+jcrites
+3 days ago
+103 comments
+399.
+To Make a Robot Secure: An Analysis of Security Threats Against Surgical Robots
+8 points
+adamnemecek
+1 day ago
+discuss
+400.
+Some things I've done with Apple watch in the last 11 hours
+14 points
+shawndumas
+1 day ago
+1 comment
+401.
+Google Exec Dan Fredinburg Killed in Nepal Earthquake
+49 points
+protomyth
+2 days ago
+4 comments
+402.
+SymbolHound
+51 points
+geoka9
+2 days ago
+11 comments
+403.
+TrackPoint (2011)
+84 points
+jjoe
+2 days ago
+66 comments
+404.
+Liquid mercury found under Mexican pyramid could lead to king's tomb
+92 points
+benbreen
+2 days ago
+19 comments
+405.
+Almost all websites redirecting China users to http://wpkg.org/
+13 points
+rahimnathwani
+1 day ago
+discuss
+406.
+Prime Minister of Singapore Coded Sudoku Solver in C++
+315 points
+doppp
+5 days ago
+124 comments
+407.
+How to Design a Roller Coaster That'll Make You Beg For Mercy
+10 points
+brandonhall
+2 days ago
+1 comment
+408.
+How I Got Converted to G.M.O. Food
+6 points
+fortepianissimo
+2 days ago
+discuss
+409.
+Ask HN: Why do managers tend to make more money than engineers?
+35 points
+shawnps
+1 day ago
+58 comments
+410.
+Feds: 6 died as a result of overdosing from Silk Road-purchased drugs
+4 points
+aburan28
+1 day ago
+2 comments
+411.
+Lessons Learned While Working on Large-Scale Server Software
+13 points
+kungfooguru
+6 days ago
+discuss
+412.
+Online Arms Race  Mikko Hypponen F-Secure [video]
+4 points
+drallison
+3 days ago
+discuss
+413.
+A back-to-front TrueCrypt recovery story: The plaintext is the ciphertext
+83 points
+wglb
+6 days ago
+5 comments
+414.
+VMware Ships Rkt and Supports App Container Spec
+16 points
+samuel1604
+7 days ago
+discuss
+415.
+Cheating teachers go to jail. Cheating Wall Streeters dont. Whats up?
+307 points
+grej
+4 days ago
+152 comments
+416.
+Ask HN: When do you know your startup has failed?
+325 points
+superpi
+10 days ago
+173 comments
+417.
+How not to interview someone who already has a job (2011)
+57 points
+jkw
+2 days ago
+69 comments
+418.
+Ask HN: What do I do with those employers who stopped replying to me?
+5 points
+wishiknew
+2 days ago
+13 comments
+419.
+Elixir  The next big language for the web
+155 points
+laut
+7 days ago
+82 comments
+420.
+Gotchas from Two Years with Node
+198 points
+scapbi
+13 days ago
+117 comments
+421.
+Easy exhaustive search with the list monad
+3 points
+edward
+3 days ago
+discuss
+422.
+Announcing Globalize 1.0
+8 points
+robin_reala
+4 days ago
+discuss
+423.
+China's Great Cannon
+264 points
+acdha
+17 days ago
+169 comments
+424.
+Germans are paranoid that the US is spying on their data
+6 points
+franzpeterstein
+2 days ago
+discuss
+425.
+Ask HN: Please stop making infinite scrolling websites
+193 points
+gcatalfamo
+6 days ago
+89 comments
+426.
+Google Dart Will Not Be the Next Default Programming Language of the Web
+39 points
+stesch
+1 day ago
+41 comments
+427.
+Why GNU grep is fast (2010)
+28 points
+dnet
+6 hours ago
+5 comments
+428.
+Mathematicians Prove Conjecture on Big Prime Number Gaps
+8 points
+treefire86
+5 hours ago
+1 comment
+429.
+How I shrunk a Docker image by 98.8%  featuring fanotify
+105 points
+jtlebigot
+2 days ago
+46 comments
+430.
+Effects from Filming the Adventures of Baron Munchausen (2010)
+67 points
+curtis
+2 days ago
+15 comments
+431.
+Honeybee Brain Flies a Drone
+3 points
+hippich
+1 day ago
+discuss
+432.
+Network maps reveal hidden molecular connections between disparate diseases
+28 points
+denzil_correa
+2 days ago
+2 comments
+433.
+PepsiCo to Drop Aspartame from Diet Pepsi
+65 points
+prostoalex
+1 day ago
+65 comments
+434.
+The Beauty of Code
+62 points
+cobralibre
+2 days ago
+17 comments
+435.
+Show HN: Squatmon, a domain squatting monitoring system
+3 points
+ech
+1 day ago
+3 comments
+436.
+Fighting Malaria with Technology
+4 points
+visof
+1 day ago
+discuss
+437.
+Branchless code sequences
+158 points
+mnem
+4 days ago
+31 comments
+438.
+'We print people': The world of 3D portraiture
+31 points
+schrofer
+2 days ago
+6 comments
+439.
+Inside the Apple Watch: Technical Teardown
+32 points
+shawndumas
+2 days ago
+3 comments
+440.
+Maintainership transfer of uBlock: post mortem
+114 points
+currencyfreedom
+2 days ago
+16 comments
+441.
+ConductR: Typesafes move in lightweight containers and distributed clusters
+19 points
+kushti
+2 days ago
+5 comments
+442.
+Why are you still here? James Meek reports from Grimsby
+28 points
+happyscrappy
+2 days ago
+8 comments
+443.
+Glut of Capital and Labor Challenge Policy Makers
+8 points
+vwoolf
+1 day ago
+1 comment
+444.
+Steamy shoujo manga illustrations on the importance of strong passwords
+13 points
+hasenj
+1 day ago
+discuss
+445.
+Incentivizing Quality and Impact in Computing Research
+20 points
+kushti
+2 days ago
+3 comments
+446.
+What fiction has to say about the libraries of the future
+7 points
+pepys
+1 day ago
+1 comment
+447.
+What happens if you remove randomness from Doom?
+449 points
+pdw
+3 days ago
+99 comments
+448.
+Eurozone Finance Ministers Contemplate Plan B for Greece
+3 points
+petethomas
+1 day ago
+2 comments
+449.
+What will C++17 be?  Bjarne Stroustrup on C++17 goals
+13 points
+matt_d
+1 day ago
+discuss
+450.
+How to take advantage of Redis just adding it to your stack (2011)
+68 points
+h43k3r
+2 days ago
+17 comments
+451.
+Rare Medieval Name Tags
+8 points
+Thevet
+1 day ago
+discuss
+452.
+Microsoft .NET CoreCLR is now running on FreeBSD 10.1 (amd64)
+393 points
+hestefisk
+3 days ago
+186 comments
+453.
+Visualizing Math
+15 points
+jonnybgood
+2 days ago
+3 comments
+454.
+Building Better Nursing Homes
+43 points
+srs0001
+2 days ago
+15 comments
+455.
+A Tiny Intro to Database Systems
+152 points
+sandcrain
+2 days ago
+13 comments
+456.
+Rorschach Tests at the Nuremberg Trials
+13 points
+DiabloD3
+2 days ago
+10 comments
+457.
+AngularJS tutorials and insights
+5 points
+henk53
+1 day ago
+discuss
+458.
+Ishango bone
+7 points
+YAYERKA
+1 day ago
+2 comments
+459.
+The Myth of Wealthy Men and Beautiful Women
+3 points
+pmcpinto
+1 day ago
+2 comments
+460.
+Segment is hiring engineers to build the future of analytics infrastructure
+461.
+Icons of all main payment operators and methods
+182 points
+bmaeser
+3 days ago
+59 comments
+462.
+Acadock, Docker container monitoring
+24 points
+yannski
+2 days ago
+8 comments
+463.
+Holding On and Letting Go
+252 points
+ghc
+3 days ago
+18 comments
+464.
+Spotted salamander young come pre-equipped with photosynthetic algae
+11 points
+dnetesn
+2 days ago
+4 comments
+465.
+Digital Geometry Processing with Discrete Exterior Calculus
+63 points
+santaclaus
+2 days ago
+10 comments
+466.
+Why Apple is obsessed with gold: It's all about Asia
+31 points
+altern8
+1 day ago
+56 comments
+467.
+Good to Great is a flawed book
+21 points
+vardhanw
+2 days ago
+discuss
+468.
+Debian jessie Release Information
+5 points
+ahochhaus
+1 day ago
+discuss
+469.
+Borg: The Predecessor to Kubernetes
+233 points
+brendandburns
+4 days ago
+38 comments
+470.
+Show HN: Yet Another Paper Case for Raspberry Pi
+4 points
+matell
+2 days ago
+discuss
+471.
+Kleiner Perkins seeks legal fees or dropped case from Ellen Pao
+109 points
+nsfmc
+3 days ago
+94 comments
+472.
+C++ ranks First top list populair programming languages
+4 points
+frido-van-driem
+1 day ago
+discuss
+473.
+Call Me Maybe: MongoDB Stale Reads
+600 points
+llambda
+5 days ago
+143 comments
+474.
+Ask HN: How does a beginner best spend one week of learning machine learning?
+107 points
+mrborgen
+3 days ago
+35 comments
+475.
+Shift Clock
+4 points
+sytelus
+1 day ago
+discuss
+476.
+Casual insults and flag burning in the dev community
+4 points
+paralelogram
+2 days ago
+3 comments
+477.
+Starbucks outage caused by deleted table
+4 points
+impostervt
+1 day ago
+discuss
+478.
+Review: Asus ZenBook UX305
+7 points
+prostoalex
+1 day ago
+4 comments
+479.
+High Frequency Trading on the Coinbase Exchange
+111 points
+modeless
+3 days ago
+51 comments
+480.
+YouTube is not a real business (2006)
+84 points
+visakanv
+2 days ago
+57 comments
+481.
+Scientists discover asthma's potential root cause and a novel treatment
+104 points
+denzil_correa
+2 days ago
+24 comments
+482.
+Point of Sale Register Outage at Starbucks Stores in U.S. and Canada
+26 points
+dalerus
+2 days ago
+30 comments
+483.
+Homework 4: Man-on-the-Side Attacks
+39 points
+privong
+3 days ago
+12 comments
+484.
+The state of Clojure on Android
+54 points
+Kuytu
+2 days ago
+17 comments
+485.
+Crystal promises to help you understand how best to talk to any person
+125 points
+klunger
+3 days ago
+61 comments
+486.
+Brief History of a Small Office
+6 points
+magda_wang
+2 days ago
+discuss
+487.
+Perturbation biology  combinatorial therapies for cancer
+5 points
+botka
+1 day ago
+2 comments
+488.
+Aijuboard  A Computer Based on the Zynq-7000 SoC with FPGA Running Plan 9
+56 points
+jpm9
+2 days ago
+12 comments
+489.
+Chiles Calbuco Eruption: Potential Weather Impacts
+34 points
+kmundnic
+3 days ago
+3 comments
+490.
+Pakible Is Hiring Sales/Customer Relations
+491.
+Visual C++ Cross-Platform Mobile
+144 points
+amatheus
+3 days ago
+78 comments
+492.
+ARM details its new high-end CPU core, Cortex A72
+62 points
+aroch
+3 days ago
+51 comments
+493.
+Under the Influence: New York Hardcore
+38 points
+joshrotenberg
+3 days ago
+31 comments
+494.
+Code Guide by @mdo
+9 points
+risons
+2 days ago
+2 comments
+495.
+Comcast Plans to Drop Time Warner Cable Deal
+272 points
+coloneltcb
+4 days ago
+77 comments
+496.
+Regrets Only
+6 points
+dnetesn
+2 days ago
+discuss
+497.
+Foursquare's Dennis Crowley can't stop believing
+34 points
+steven
+3 days ago
+33 comments
+498.
+Foodies embrace 3D-printed cuisine
+15 points
+danboarder
+2 days ago
+1 comment
+499.
+Batteries and Renewable Energy Set to Grow Together
+6 points
+dnetesn
+2 days ago
+discuss
+500.
+Coding for SSDs
+167 points
+dedalus
+3 days ago
+27 comments
+501.
+Data migration with Kubernetes and Flocker
+49 points
+lewq
+3 days ago
+19 comments
+502.
+Gods edging out robots at Toyota facility
+248 points
+marcusgarvey
+4 days ago
+117 comments
+503.
+How the Artifacts ISIS Destroyed Are Being Digitally Reconstructed
+9 points
+DiabloD3
+2 days ago
+1 comment
+504.
+TitanHide  open-source ring0 Windows x64 anti-anti-debug driver
+45 points
+MrBra
+2 days ago
+12 comments
+505.
+Ask HN: Brag about open-source projects you're proud of
+75 points
+kristopolous
+2 days ago
+77 comments
+506.
+Ransomware Decryptor
+205 points
+touristtam
+4 days ago
+49 comments
+507.
+Automate the Boring Stuff with Python
+281 points
+adamnemecek
+6 days ago
+51 comments
+508.
+Watsons Star Turn at Tribeca
+8 points
+kelvintran
+2 days ago
+discuss
+509.
+Commandments for the Speed of Security
+4 points
+Garbage
+2 days ago
+1 comment
+510.
+Woman behind Pakistans first hackathon, Sabeen Mahmud, shot dead
+43 points
+jsstylos
+3 days ago
+4 comments
+511.
+Shared memory with Node.js
+20 points
+vpj
+4 days ago
+7 comments
+512.
+GSCS: Game servers in Docker containers
+3 points
+bampolampy
+1 day ago
+discuss
+513.
+Reaching and re-engaging users on the mobile web
+48 points
+cjdulberger
+7 days ago
+18 comments
+514.
+A piano made of Clojure, Arduino, and bananas
+3 points
+andrewksl
+1 day ago
+discuss
+515.
+My Biggest WatchKit Mistake
+5 points
+timanglade
+6 days ago
+1 comment
+516.
+Java 9 and Beyond presentation at EclipseCon
+5 points
+pjmlp
+3 days ago
+discuss
+517.
+Using PostgreSQL Arrays the Right Way
+42 points
+afshin
+21 days ago
+17 comments
+518.
+The Asshole Factory
+12 points
+rwc
+5 days ago
+8 comments
+519.
+JSBlocks  Faster Than AngularJS and ReactJS. Better MV-Ish Framework. Oh Yeah
+6 points
+bogomil
+4 days ago
+discuss
+520.
+Making It Better: ASP.NET with Visual Basic 14
+26 points
+thebouv
+3 days ago
+20 comments
+521.
+Show HN: A virtual machine designed for programming workshops
+64 points
+jpdlla
+2 days ago
+6 comments
+522.
+Kamcord is looking for a Product Manager
+523.
+SIGAINT email service targeted by 70 bad TOR exit nodes
+181 points
+sp332
+4 days ago
+53 comments
+524.
+Python Tools for Xilinx Vivado FPGA Projects
+4 points
+craigjb
+2 days ago
+discuss
+525.
+Higher wages and employee turnover
+59 points
+besam
+3 days ago
+50 comments
+526.
+The Beautiful Unpredictability of Coffee, Clouds, and Fire
+3 points
+dnetesn
+2 days ago
+discuss
+527.
+Big Bank 'Crime of the Century' Results in Guess What? No Jail Time for Anyone
+7 points
+aagha
+1 day ago
+discuss
+528.
+Rail signal upgrade 'could be hacked to cause crashes'
+7 points
+charkubi
+2 days ago
+discuss
+529.
+Forget the Ordinary Honeybee; Look at the Beautiful Bees Theyre Crowding Out
+15 points
+dnetesn
+3 days ago
+discuss
+530.
+Americans Are Working Much Longer Hours Than the French and Germans
+18 points
+danboarder
+1 day ago
+9 comments
+531.
+Chicago Boss: The Erlang Web Framework
+104 points
+xj9
+4 days ago
+19 comments
+532.
+Tips for Optimizing Linux Memory Usage (1994)
+11 points
+brudgers
+1 day ago
+5 comments
+533.
+Flexport is hiring a senior front-end engineer
+534.
+If hypervisor is commodity, why is VMware still on top?
+4 points
+atermon
+2 days ago
+discuss
+535.
+Walking New York
+82 points
+linkmotif
+4 days ago
+25 comments
+536.
+Looking for Cofounder/CTO (San Francisco). Interested?
+4 points
+fuuuqua
+1 day ago
+2 comments
+537.
+The Serotonin Levels-Depression Link Is a 'Marketing Myth,' Psychiatrist Claims
+86 points
+DiabloD3
+4 days ago
+67 comments
+538.
+Deleting edges to restrict the size of an epidemic
+4 points
+user_235711
+2 days ago
+discuss
+539.
+UK trader in fraud arrest over US 'flash crash'
+56 points
+goodcanadian
+6 days ago
+72 comments
+540.
+Ask HN: What's the worst thing that happened to you job-wise?
+11 points
+simonebrunozzi
+1 day ago
+12 comments
+541.
+Gabe Newell is doing an AMA regarding paid Steam mods
+7 points
+seanalltogether
+1 day ago
+1 comment
+542.
+Introducing the new Wikipedia store
+5 points
+user_235711
+2 days ago
+discuss
+543.
+I am a computer engineering student 3rd year, I don't know what to specialize in
+4 points
+mark12
+2 days ago
+9 comments
+544.
+Cheaper Robots, Fewer Workers
+8 points
+kanamekun
+3 days ago
+2 comments
+545.
+Ask HN: Being incarcerated for 60 days for a victimless, non violent crime
+18 points
+thrwawayinc
+2 days ago
+30 comments
+546.
+Show HN: Visual Code Editor for UX and Interaction Designers
+5 points
+ux-app
+2 days ago
+3 comments
+547.
+Ask HN: What made you choose your current career?
+37 points
+theBeaver
+2 days ago
+64 comments
+548.
+Ask HN: Besides HN, what websites would you recommend routinely reading and why?
+5 points
+zatkin
+2 days ago
+4 comments
+549.
+Show HN: Fullscreen Maps  Google and Bing Maps Without the UI Clutter
+13 points
+adekom
+2 days ago
+1 comment
+550.
+Run your own high-end cloud gaming service on EC2
+199 points
+arcticbull
+14 days ago
+71 comments
+551.
+Ubuntu 15.04 allows systemd removal
+12 points
+empressplay
+2 days ago
+discuss
+552.
+PipelineDB (YC W14) is hiring front end and systems engineers
+553.
+Aetherial Symbols
+76 points
+etiam
+3 days ago
+7 comments
+554.
+Yubikey NEO OpenPGP private key operations can be accessed without PIN
+13 points
+mortenlarsen
+3 days ago
+7 comments
+555.
+There is more to Fight Club than meets the eye
+12 points
+aps-sids
+2 days ago
+3 comments
+556.
+Google executive, Dan Fredinburg, killed on Everest after Nepal quake
+7 points
+sosuke
+1 day ago
+discuss
+557.
+New York City Subway Ridership Jumps
+68 points
+qzervaas
+4 days ago
+44 comments
+558.
+Fossdroid.com: Free and open source Android applications
+407 points
+SnaKeZ
+8 days ago
+70 comments
+559.
+Jugaad
+4 points
+xrd
+1 day ago
+discuss
+560.
+Ubuntu 15.04
+57 points
+pantalaimon
+4 days ago
+1 comment
+561.
+Coffee and Tech  Craft Coffee is hiring engineers
+562.
+Proceedings of the 8th European Lisp Symposium [pdf]
+27 points
+deepaksurti
+5 days ago
+2 comments
+563.
+A QUIC update on Googles experimental transport
+230 points
+jplevine
+10 days ago
+123 comments
+564.
+Measure Human Reaction Time
+13 points
+lmg643
+2 days ago
+3 comments
+565.
+Unikernels can improve Internet security
+8 points
+mrry
+2 days ago
+1 comment
+566.
+Tell HN: The Creepiness Factor  Why I Won't Apply for Analytics Jobs
+6 points
+MichaelCrawford
+1 day ago
+3 comments
+567.
+Senators Announce Aaron Swartz Should Have Faced More Jail Time Bill
+10 points
+ajaymehta
+3 days ago
+discuss
+568.
+Googles iron grip on Android: Controlling open source by any means necessary
+8 points
+mariuz
+2 days ago
+discuss
+569.
+How to Center in CSS
+1033 points
+plurby
+7 days ago
+288 comments
+570.
+Why the Flash Crash Really Matters
+30 points
+dnetesn
+4 days ago
+21 comments
+571.
+ARM Processor  Sowing the Seeds of Success
+5 points
+davidbarker
+2 days ago
+discuss
+572.
+Show HN: Today We Learned
+13 points
+joneil
+3 days ago
+10 comments
+573.
+The Unclear CP vs. CA Case in CAP
+29 points
+SanderMak
+3 days ago
+8 comments
+574.
+A Ridiculous Proposal (2014)
+9 points
+WoodenChair
+2 days ago
+3 comments
+575.
+Amazon Finally Discloses Cloud Services Sales, Showing 49% Jump
+301 points
+T-A
+3 days ago
+135 comments
+576.
+Show HN: Feature voting for GitHub
+108 points
+Ecco
+3 days ago
+55 comments
+577.
+Making Visual Data a First-Class Citizen
+7 points
+sagargv
+2 days ago
+1 comment
+578.
+The Man Who Drank Cholera and Launched the Yogurt Craze
+45 points
+dnetesn
+3 days ago
+3 comments
+579.
+How New York City's animals get where theyre going
+14 points
+drsilberman
+2 days ago
+discuss
+580.
+One Size Fits All: An Idea Whose Time Has Come and Gone (2005) [pdf]
+9 points
+dedalus
+2 days ago
+discuss
+581.
+Docker GitLab
+50 points
+snake_case
+2 days ago
+24 comments
+582.
+Michael Lewis Has Questions About the Flash Crash
+10 points
+randomname2
+3 days ago
+discuss
+583.
+Ask HN: Work for free for 4 months for a $55k job after?
+7 points
+gamechangr
+2 days ago
+22 comments
+584.
+Hmm.. just installed Blender through Steam
+7 points
+reddotX
+2 days ago
+1 comment
+585.
+Practical File System Design with the Be File System (1999) [pdf]
+57 points
+tambourine_man
+3 days ago
+17 comments
+586.
+ADHD: A Disease called childhood
+13 points
+imperio59
+2 days ago
+9 comments
+587.
+A JavaScript-Based DDoS Attack as Seen by Safe Browsing
+58 points
+cleverjake
+3 days ago
+6 comments
+588.
+The Essence of Peopling
+106 points
+ivank
+15 days ago
+29 comments
+589.
+Code Inflation [pdf]
+8 points
+pmarin
+9 days ago
+discuss
+590.
+Neovim Newsletter #5  Out of the Box
+223 points
+davis
+21 days ago
+26 comments
+591.
+Live small, be happy? The next new big thing
+42 points
+yitchelle
+6 days ago
+67 comments
+592.
+Valve now enables mod makers to sell their creations on Steam
+3 points
+elisee
+3 days ago
+discuss
+593.
+EP study: European Union should finance key open source tools
+5 points
+Tsiolkovsky
+5 days ago
+discuss
+594.
+Hacker School is now the Recurse Center
+184 points
+vitno
+33 days ago
+103 comments
+595.
+URI Templates (2012)
+27 points
+mjswensen
+28 days ago
+7 comments
+596.
+Thinking about Thinking (2007)
+84 points
+achompas
+28 days ago
+7 comments
+597.
+In Finland's 'open prisons,' inmates have the keys
+11 points
+dirtyaura
+9 days ago
+discuss
+598.
+Apple details J.A.R.V.I.S., the Apache Mesos framework that runs Siri
+15 points
+caniszczyk
+4 days ago
+2 comments
+599.
+Couchbase releases 4.0 preview, new query and indexing to rival other NoSQL DBs
+13 points
+ingenthr
+5 days ago
+1 comment
+600.
+The New ?. Operator in C# 6
+17 points
+ffxus
+1 day ago
+2 comments
+601.
+Tiny robots climb walls carrying more than 100 times their weight
+3 points
+mikenyc
+2 days ago
+discuss
+602.
+Ask HN: Do I give up now?
+35 points
+smokesigns
+2 days ago
+52 comments
+603.
+Machine Dreams: HP makes long-shot bid
+7 points
+Turing_Machine
+5 days ago
+discuss
+604.
+Videogame Publishers: No Preserving Abandoned Games Because Hacking Is Illegal
+282 points
+thisisparker
+18 days ago
+152 comments
+605.
+The FBI Keeps Demanding Impossible Solutions to Its Encryption Problem
+9 points
+dsr12
+6 days ago
+discuss
+606.
+How a Toronto professors research revolutionized artificial intelligence
+72 points
+dataminer
+10 days ago
+12 comments
+607.
+Ubuntu Desktop will eventually (16.04?) switch to Snappy packages by default
+4 points
+mseri
+2 days ago
+1 comment
+608.
+Six Flags on the Moon: What Is Their Current Condition?
+10 points
+shawndumas
+2 days ago
+2 comments
+609.
+What I've Learned from Inheriting a Popular Open Source Project
+5 points
+BenjaminCoe
+3 days ago
+discuss
+610.
+Code Inflation [pdf]
+80 points
+chilgart
+10 days ago
+29 comments
+611.
+I Was an Animal Experimenter
+71 points
+romefort
+6 days ago
+83 comments
+612.
+China's Man-On-the-Side Attack on GitHub
+692 points
+netresec
+27 days ago
+309 comments
+613.
+About Liberland
+89 points
+elmar
+9 days ago
+90 comments
+614.
+We have decided not to integrate the Dart VM into Chrome
+516 points
+kasperset
+33 days ago
+285 comments
+615.
+Nothing is more indicative of a bullshit job than the interview
+6 points
+CountHackulus
+7 days ago
+3 comments
+616.
+Show HN: Discusslr.com
+17 points
+owainlewis
+2 days ago
+49 comments
+617.
+Monoids without tears (2014)
+51 points
+ZenoArrow
+27 days ago
+13 comments
+618.
+Foursquares Dennis Crowley Cant Stop Believing
+33 points
+prostoalex
+1 day ago
+8 comments
+619.
+django CMS 3.1 Released
+15 points
+intellectronica
+6 days ago
+1 comment
+620.
+Support Neovim
+19 points
+tarruda
+10 days ago
+2 comments
+621.
+Databases at 14.4Mhz
+297 points
+chton
+138 days ago
+81 comments
+622.
+Httpie: A really nice alternative to curl, already in Ubuntu repo and brew
+8 points
+dorfsmay
+53 days ago
+1 comment
+623.
+After Docker: Unikernels and Immutable Infrastructure
+238 points
+axelfontaine
+164 days ago
+69 comments
+624.
+Debian 8 Jessie released
+10 points
+ahochhaus
+1 day ago
+1 comment
+625.
+Decrypting Android Snapchat images
+79 points
+fla
+198 days ago
+57 comments
+626.
+Ask HN: Is it fair game to downvote someone's comments indiscriminately?
+22 points
+pondekawna
+2 days ago
+41 comments
+627.
+FizzBuzz Enterprise Edition
+134 points
+hglaser
+127 days ago
+49 comments
+628.
+How to Know When ES(6/7/2015) Modules Are Done
+3 points
+jashkenas
+72 days ago
+629.
+Ractive.js
+264 points
+dave1010uk
+642 days ago
+112 comments
+630.
+Debian 8 Jessie Released
+13 points
+itistoday2
+1 day ago
+discuss
+631.
+Debian 8 Jessie Released
+13 points
+itistoday2
+1 day ago
+discuss
+632.
+This man just claimed a new European nation. 160,000 people want to live there
+287 points
+webdisrupt
+6 days ago
+150 comments
+633.
+Android Is Peeing on an Apple in Pakistan - Google Maps
+592 points
+ezhik_
+3 days ago
+190 comments
+634.
+Node.js Tools 1.0 on GitHub and VMs Available
+60 points
+mousetraps
+3 days ago
+13 comments
+635.
+Solving a Tricky Problem
+20 points
+d23
+3 days ago
+1 comment
+636.
+'Clone Zone' Is an Easy Tool for Building Fake Websites
+46 points
+jonbaer
+3 days ago
+17 comments
+637.
+Hunt for ancient royal tomb in Mexico takes mercurial twist
+9 points
+diodorus
+2 days ago
+discuss
+638.
+Engineer #6  at Lob (YC S13)
+639.
+Flask vs. Django: Worksheet to choose the right framework
+70 points
+welder
+4 days ago
+67 comments
+640.
+Cheaper bandwidth or bust: How Google saved YouTube
+146 points
+smacktoward
+4 days ago
+55 comments
+641.
+Music was better back then: When do we stop keeping up with popular music?
+47 points
+eloy
+3 days ago
+58 comments
+642.
+Thoughts Can Fuel Some Deadly Brain Cancers
+87 points
+benbreen
+3 days ago
+21 comments
+643.
+SparkFun CryptoShield
+56 points
+MichaelAO
+3 days ago
+24 comments
+644.
+In defense of Tor routers
+48 points
+simas
+3 days ago
+18 comments
+645.
+Are we seeing the end of the era for the 'super-jumbo'?
+39 points
+giles
+3 days ago
+42 comments
+646.
+NASA data API
+350 points
+bambax
+6 days ago
+40 comments
+647.
+Gopherpedia  The Gopher Protocol Wikipedia Interface
+6 points
+kingmanaz
+2 days ago
+discuss
+648.
+This machine catches stingrays: Pwnie Express demos cellular threat detector
+95 points
+gregcohn
+5 days ago
+9 comments
+649.
+Scientists see deeper Yellowstone magma
+43 points
+interconnector
+3 days ago
+5 comments
+650.
+Wheelnav.js  spinning ever
+33 points
+taivare
+3 days ago
+23 comments
+651.
+Oak by Digistump ($10 Arduino Compatible with built-in Wi-Fi)
+4 points
+nfriedly
+2 days ago
+3 comments
+652.
+Getting Real About Distributed System Reliability (2012)
+6 points
+dedalus
+2 days ago
+discuss
+653.
+Kramden Institute  Tools and Training to Bridge the Digital Divide
+6 points
+brudgers
+2 days ago
+discuss
+654.
+Full Stack Tuning for a 100x Load Increase and 40x Better ResponseTimes
+3 points
+h43k3r
+2 days ago
+discuss
+655.
+Will your new MacBook crash to the ground without MagSafe?
+4 points
+elmar
+2 days ago
+3 comments
+656.
+The Slow Death of the University
+213 points
+mgunes
+4 days ago
+126 comments
+657.
+Memebox (YC W14) Is Hiring a Head of User Experience Design
+658.
+NGINX open sources TCP load balancing
+499 points
+realityking
+7 days ago
+117 comments
+659.
+Show HN: Evenk C++ concurrency library
+35 points
+avdicius
+4 days ago
+9 comments
+660.
+The Long-Term Problem with Dynamically Typed Languages
+5 points
+MrValdez
+3 days ago
+discuss
+661.
+Heres How Managers Can Be Replaced by Software
+18 points
+shalmanese
+2 days ago
+1 comment
+662.
+Ask HN: What are people doing with microcontrollers?
+10 points
+ryanSrich
+2 days ago
+2 comments
+663.
+Lisp in 1,200 lines of Dart
+3 points
+suzuki
+3 days ago
+1 comment
+664.
+Stewart Brand: Rethinking Extinction
+28 points
+benbreen
+5 days ago
+5 comments
+665.
+We Cant Let John Deere Destroy the Idea of Ownership
+577 points
+klunger
+6 days ago
+393 comments
+666.
+Chord progressions of 25,000 songs
+280 points
+joubert
+10 days ago
+108 comments
+667.
+WebTask: run code with an HTTP call. No provisioning
+16 points
+Rauchg
+2 days ago
+5 comments
+668.
+Tim Berners-Lee: TLS Everywhere, Not Https: URIs
+20 points
+cpeterso
+4 days ago
+4 comments
+669.
+Show HN: Longest Translation  Handy utility for multi language designs
+21 points
+clloyd
+3 days ago
+20 comments
+670.
+The Tesla of Scooters Is Driving Asia's Two Wheel Revolution
+111 points
+craigjb
+3 days ago
+69 comments
+671.
+The Further Democratization of QUANTUM
+11 points
+DiabloD3
+3 days ago
+discuss
+672.
+Quorum: The world's first evidence-oriented programming language
+19 points
+doty
+3 days ago
+26 comments
+673.
+Woman behind Pakistans first hackathon, shot dead by unknown gunmen
+11 points
+DiabloD3
+3 days ago
+1 comment
+674.
+Venture-capital infusions shrank Box founders stakes, ignited strife
+37 points
+pierrealexandre
+3 days ago
+46 comments
+675.
+Hash Collision Probabilities (2011)
+15 points
+fauria
+3 days ago
+2 comments
+676.
+Child malaria vaccine: Final trials bring hope
+12 points
+Someone
+3 days ago
+1 comment
+677.
+On first connection to a new site (typed without protocol), try https first
+15 points
+amenghra
+3 days ago
+7 comments
+678.
+Toddlers prepare for their first big interview
+34 points
+schrofer
+3 days ago
+24 comments
+679.
+To Build a (Better) Fire
+3 points
+shoo
+2 days ago
+discuss
+680.
+HBO Is Targeting Game of Thrones Pirates: What Does This Mean for You?
+10 points
+datsun
+3 days ago
+20 comments
+681.
+Change Lives Through CS Instruction at Fullstack Academy (#1 Code School)
+682.
+Legacy of Agent Orange
+150 points
+lambtron
+3 days ago
+121 comments
+683.
+Dirt in Medieval Books
+133 points
+Thevet
+3 days ago
+17 comments
+684.
+Laconic Phrase
+12 points
+namanyayg
+3 days ago
+3 comments
+685.
+Ask HN: How can I *really* change the world?
+8 points
+seekingcharlie
+2 days ago
+6 comments
+686.
+The process of invention: Now and then
+9 points
+sergeant3
+3 days ago
+discuss
+687.
+C# 7 Work List of Features
+246 points
+rajeemcariazo
+4 days ago
+145 comments
+688.
+An Ex-Cop Keeps the Countrys Best Data Set on Police Misconduct
+7 points
+danso
+2 days ago
+discuss
+689.
+Efficient Rotary Engine Lands Million-Dollar Darpa Contract
+76 points
+craigjb
+3 days ago
+43 comments
+690.
+Building a chat system using core.async and server-sent-events
+42 points
+jonpither
+3 days ago
+1 comment
+691.
+How to seem smart in meetings without really trying
+39 points
+romefort
+3 days ago
+10 comments
+692.
+Ubuntu 15.04 is here
+6 points
+HerrMonnezza
+2 days ago
+discuss
+693.
+Credit card terminals have used same password since 1990s, claim researchers
+59 points
+wglb
+3 days ago
+66 comments
+694.
+Airware (YC W13) Is Hiring: Code and Fly
+695.
+Beaker  One Notebook Many Languages
+4 points
+pablobaz
+3 days ago
+discuss
+696.
+Nepal Earthquake (Pics)
+3 points
+mkagenius
+2 days ago
+discuss
+697.
+Push, Don't Crush, the Students
+4 points
+sqrt
+2 days ago
+discuss
+698.
+RinohType Status Update 1
+7 points
+brechtm
+3 days ago
+discuss
+699.
+Warm and unaffected, Philip Glasss memoir is nothing like his music
+7 points
+tintinnabula
+3 days ago
+1 comment
+700.
+Recent Performance Improvements in Spark: SQL, Python, DataFrames, and Mor
+9 points
+rxin
+2 days ago
+discuss
+701.
+Of Phishing Attacks and WordPress 0days
+12 points
+jgrahamc
+3 days ago
+1 comment
+702.
+Updated Draft ISRG CP and CPS
+8 points
+_jomo
+3 days ago
+discuss
+703.
+SymbolHound
+5 points
+geoka9
+3 days ago
+discuss
+704.
+How long since Google said a Google Drive Linux client is coming?
+108 points
+waffle_ss
+3 days ago
+58 comments
+705.
+Amazon CTO Werner Vogels Shares Nine Patterns of Cloud Adoption
+15 points
+ancatrusca
+3 days ago
+2 comments
+706.
+Understanding Python bytecode by implementing tail call optimization
+12 points
+mynameisfiber
+4 days ago
+2 comments
+707.
+Bootstrap 4 will be in SCSS
+11 points
+jscottmiller
+2 days ago
+2 comments
+708.
+Surge in Chinese tech stocks is making the dot-com bubble look tame
+58 points
+viblo
+6 days ago
+36 comments
+709.
+EveryoneAPI Convert Phone Numbers Into Business Intelligence
+43 points
+OpenCNAM
+3 days ago
+48 comments
+710.
+Webtask.js  Run code with an HTTP call. No provisioning. No deployment
+7 points
+franze
+2 days ago
+discuss
+711.
+Reactjs  what the flux?
+3 points
+ochronus
+2 days ago
+discuss
+712.
+Apple Watch Teardown
+77 points
+shawndumas
+3 days ago
+19 comments
+713.
+Operas work to reduce Chromiums memory use
+5 points
+dsr12
+2 days ago
+1 comment
+714.
+Trap street
+3 points
+lelf
+2 days ago
+discuss
+715.
+10 Lessons Learned from Being a Startup CEO
+4 points
+aihui
+3 days ago
+discuss
+716.
+A New Sense of Purpose for Rails
+8 points
+waffle_ss
+3 days ago
+discuss
+717.
+The Intelligent Life of the City Raccoon
+33 points
+dnetesn
+5 days ago
+12 comments
+718.
+Chinese scientists genetically modify human embryos
+9 points
+tremendo
+4 days ago
+3 comments
+719.
+Why do pub TVs have a pint glass in the corner?
+297 points
+georgecalm
+5 days ago
+194 comments
+720.
+What languages changed the way you think about programming?
+14 points
+jfe
+3 days ago
+24 comments
+721.
+Ask HN: What is your favorite sample database of JSON documents?
+4 points
+beamatronic
+2 days ago
+3 comments
+722.
+Y Combinator rejection reasons
+61 points
+blueintegral
+7 days ago
+34 comments
+723.
+What's driving Scala's rise in popularity?
+7 points
+loxxed
+6 days ago
+discuss
+724.
+I just finished the development of my first Oculus experience
+4 points
+BaptisteGreve
+3 days ago
+1 comment
+725.
+How to interview your interviewers
+7 points
+leeny
+5 days ago
+discuss
+726.
+How to pronounce hexadecimal
+9 points
+tbabb
+6 days ago
+4 comments
+727.
+Solving the Cheryl's Birthday Problem with Prolog
+31 points
+jxf
+10 days ago
+1 comment
+728.
+Pandora didn't pay 50 employees for two years
+3 points
+gamoid
+2 days ago
+discuss
+729.
+Quirky has paid its inventors $9m, but lost $150m in the process
+4 points
+bproper
+3 days ago
+discuss
+730.
+The Long-Term Problem with Dynamically Typed Languages
+43 points
+messorian
+2 days ago
+91 comments
+731.
+Lumen A micro-framework by Laravel
+225 points
+ericbarnes
+13 days ago
+110 comments
+732.
+Cuba has had a lung cancer vaccine for years
+4 points
+snowy
+3 days ago
+1 comment
+733.
+Debian 8.0 Jessie has been released
+19 points
+vitaut
+1 day ago
+4 comments
+734.
+Ask HN: What is your Linux distro of choice?
+21 points
+rukshn
+2 days ago
+53 comments
+735.
+Building a new Twitter trends experience
+5 points
+ChrisArchitect
+3 days ago
+discuss
+736.
+HP-01 wrist instrument, 1977
+3 points
+denzil_correa
+2 days ago
+discuss
+737.
+ZenPayroll (YC W12) is hiring passionate and entrepreneurial Product Managers
+738.
+The Woman Who Ate Chernobyl's Apples
+284 points
+jonbaer
+5 days ago
+118 comments
+739.
+First Look at Ubers Co-Founders Shopping Concierge Operator
+8 points
+dmanlian
+4 days ago
+discuss
+740.
+Wander (1974)  a lost mainframe game isfound
+55 points
+wodow
+4 days ago
+11 comments
+741.
+Guy trading at home caused the flash crash of 2010
+63 points
+breitling
+5 days ago
+84 comments
+742.
+Bypassing OS X Security Tools Is Trivial, Researcher Says
+5 points
+andygambles
+3 days ago
+discuss
+743.
+Apple Offers Virtual Personal Setup Appointments to New Watch Owners
+5 points
+digital55
+3 days ago
+1 comment
+744.
+Citizen Thiel
+6 points
+jameswilsterman
+3 days ago
+discuss
+745.
+Foucaults lecture notes from 197071 demolish caricatures of his thought (2013)
+122 points
+benbreen
+4 days ago
+130 comments
+746.
+C-51 will undermine Canadas businesses: Open letter from 60 business leaders
+308 points
+zawaideh
+6 days ago
+63 comments
+747.
+Ask HN: Which companies are doing anything good for the world?
+11 points
+manlio
+3 days ago
+7 comments
+748.
+Ask HN: How can a person with web dev skills make $500-$1000 per month?
+15 points
+vshan
+4 days ago
+15 comments
+749.
+Show HN: Made my own date picker for AngularJS
+44 points
+mobinni
+5 days ago
+43 comments
+750.
+Laying the groundwork for MeteorJS and RethinkDB integration
+6 points
+primigenus
+2 days ago
+discuss
+751.
+How to save your own life when choking if nobody else is around
+8 points
+notsony
+2 days ago
+discuss
+752.
+Show HN: Kiba, a lightweight Ruby ETL framework
+19 points
+thibaut_barrere
+3 days ago
+7 comments
+753.
+Clang by Example: Detecting Unused Functions
+15 points
+msemenistyi
+5 days ago
+1 comment
+754.
+A 64-year-old engineer is suing Google for age discrimination
+4 points
+Libertatea
+3 days ago
+4 comments
+755.
+Ask HN: Contract dispute, do I shut em' down?
+10 points
+josho
+3 days ago
+23 comments
+756.
+What do you think about the new default bookmarking tool in Chrome?
+3 points
+preslavrachev
+3 days ago
+discuss
+757.
+The Missing Mt. Gox Bitcoins
+168 points
+dwwoelfel
+8 days ago
+89 comments
+758.
+Chris Granger on the LightTable architecture
+183 points
+lemming
+12 days ago
+99 comments
+759.
+Learn Kubernetes: The Future of Cloud Hosting
+8 points
+arunoda
+5 days ago
+discuss
+760.
+The FBI faked an entire field of forensic science
+12 points
+ahmadss
+3 days ago
+1 comment
+761.
+Python 2, Python 3, Debian and Porting
+194 points
+neokya
+11 days ago
+98 comments
+762.
+Fearless concurrency with Rust
+539 points
+steveklabnik
+17 days ago
+179 comments
+763.
+A taxing algorithm
+52 points
+breadbox
+10 days ago
+11 comments
+764.
+AngularJS Cheat Sheet [pdf]
+140 points
+paulw0
+16 days ago
+46 comments
+765.
+How Photography Was Optimized for White Skin Color
+39 points
+ryan_j_naughton
+2 days ago
+45 comments
+766.
+You sold 17M albums and you want to pay me nothing
+17 points
+anigbrowl
+7 days ago
+2 comments
+767.
+Wild chimps look both ways before crossing roads
+4 points
+touristtam
+5 days ago
+discuss
+768.
+How to Design for Virtual Reality
+9 points
+batguano
+10 days ago
+discuss
+769.
+Facebooks secret plan to kill Google
+5 points
+chlb
+4 days ago
+discuss
+770.
+Machine learning in navigation: detect maneuvers using accelerometer, gyroscope
+41 points
+alexander996
+15 days ago
+7 comments
+771.
+Failed Apple Rootpipe Fix Leaves Backdoor on All Macs
+11 points
+sethvargo
+7 days ago
+discuss
+772.
+Stack Overflow Developer Survey 2015
+109 points
+aalear
+20 days ago
+6 comments
+773.
+Americans Believe in Science, Just Not Its Findings
+4 points
+evo_9
+3 days ago
+discuss
+774.
+A fast, offline reverse geocoder in Python
+181 points
+jp_sc
+30 days ago
+43 comments
+775.
+Nootropic Brain Drugs Rise in Popularity for Todays Corporate Climbers
+33 points
+geoffwoo
+12 days ago
+63 comments
+776.
+Lwan: Experimental, scalable, high performance HTTP server
+117 points
+tombenner
+197 days ago
+42 comments
+777.
+Rust, Lifetimes, and Collections
+99 points
+kibwen
+159 days ago
+45 comments
+778.
+You Don't Know JS Book Series
+170 points
+AllThingsSmitty
+189 days ago
+22 comments
+779.
+Is This Justice? Charging an Eighth Grader with a Felony for Hacking
+442 points
+CapitalistCartr
+7 days ago
+217 comments
+780.
+A/A Testing: How I increased conversions 300% by doing absolutely nothing
+7 points
+damohasi
+47 days ago
+1 comment
+781.
+Tesla: Introducing Autopilot and Dual Motor All Wheel Drive
+339 points
+bradly
+199 days ago
+220 comments
+782.
+Elon Musk argues that putting a million people on Mars ensures humanity's future
+322 points
+todayiamme
+209 days ago
+347 comments
+783.
+The easiest way to use Docker on your Mac
+70 points
+juanriaza
+6 days ago
+57 comments
+784.
+Kerbal Space Program - space flight simulator game
+142 points
+dexen
+757 days ago
+57 comments
+785.
+Current Hemlis roadmap and product are dead
+9 points
+bontoJR
+5 days ago
+discuss
+786.
+Less is exponentially more
+235 points
+enneff
+1035 days ago
+122 comments
+787.
+How We Went from 30 Servers to 2: Go
+688 points
+treeder
+775 days ago
+495 comments
+788.
+First Look at Ubers Co-Founders Shopping Concierge Operator
+4 points
+carlchenet
+4 days ago
+1 comment
+789.
+Adaptive Images in HTML
+35 points
+orofino
+1101 days ago
+21 comments
+790.
+Datensparsamkeit
+5 points
+henrik_w
+501 days ago
+791.
+Woman's brain tumor is actually her twin, complete with bone, hair, and teeth
+16 points
+zonotope
+4 days ago
+6 comments
+792.
+I am a climate skeptic who believes in global warming
+7 points
+nkurz
+1 day ago
+1 comment
+793.
+7 Things You Must Be Doing with Docker
+8 points
+agonzalezro
+7 hours ago
+2 comments
+794.
+Farewell to the last EU country with no mosque
+5 points
+3gina1
+10 hours ago
+2 comments
+795.
+Protein World: The Body Shaming Protest That Turned Decidedly Ugly
+4 points
+formulaT
+21 hours ago
+5 comments
+796.
+Social Justice Bullies: The Authoritarianism of Millennial Social Justice
+111 points
+bovermyer
+10 days ago
+204 comments
+797.
+Dr. Oz and the Pathology of 'Open-Mindedness'
+3 points
+pmcpinto
+2 days ago
+discuss
+798.
+Why Men Fail (2012)
+13 points
+ryanmarsh
+4 days ago
+7 comments
+799.
+Django 1.8 released
+286 points
+amarsahinovic
+25 days ago
+56 comments
+800.
+Easier Than Fizz Buzz  Why Can't Programmers Print 100 to 1?
+35 points
+oskarth
+18 days ago
+40 comments
+801.
+The billionaires typewriter
+219 points
+Tomte
+69 days ago
+94 comments
+802.
+Show HN: Remote notifications system in its early stages
+4 points
+vhakulinen
+11 days ago
+discuss
+803.
+BEP 30: Merkle hash torrent extension
+66 points
+mariorz
+84 days ago
+26 comments
+804.
+Learn Python the Hard Way
+240 points
+colund
+31 days ago
+172 comments
+805.
+Carbon3D  CLIP Technology  layerless 3D printing
+4 points
+ZeljkoS
+40 days ago
+806.
+Why Go Is Not Good
+436 points
+pohl
+301 days ago
+356 comments
+807.
+Handwritten Parsers and Lexers in Go
+5 points
+bketelsen
+146 days ago
+808.
+What I Wish I Knew When Learning Haskell
+164 points
+psibi
+505 days ago
+75 comments
+809.
+How many f-bombs does it take to hire an engineer? A lot apparently
+25 points
+moderndork
+10 days ago
+5 comments
+810.
+Ubuntu 12.04 Released
+19 points
+ceekays
+1096 days ago
+1 comment
+811.
+The difference between 18F and USDS
+14 points
+knowtheory
+3 days ago
+discuss
+812.
+OneSignal Is Hiring a UI/UX Design Lead
+813.
+Eight hands on rules for writing better java code
+6 points
+bjorns
+2 days ago
+discuss
+814.
+Everyone has JavaScript, right?
+117 points
+insin
+3 days ago
+97 comments
+815.
+Learning a Personalized Homepage
+42 points
+antouank
+5 days ago
+6 comments
+816.
+How to Turn Your Apple Watch Gold by Casey Neistat
+4 points
+modfodder
+2 days ago
+1 comment
+817.
+On problems with threads in Node.js
+125 points
+xylem
+4 days ago
+61 comments
+818.
+Postmortem of Venture-Backed Startup, Sonar
+180 points
+joshfraser
+5 days ago
+48 comments
+819.
+ALGORITHM: The Hacker Movie
+6 points
+atmosx
+3 days ago
+discuss
+820.
+Ask HN: What is bad about Haskell?
+4 points
+litzer
+3 days ago
+12 comments
+821.
+People Who Use Firefox or Chrome Are Better Employees
+6 points
+RKoutnik
+2 days ago
+discuss
+822.
+MongoDB and RocksDB at Parse
+111 points
+jasondc
+5 days ago
+54 comments
+823.
+First Round Capital Open Application for Startups
+134 points
+_pius
+5 days ago
+49 comments
+824.
+If 1+x is 1, how much is 1-x?
+203 points
+gus_massa
+6 days ago
+51 comments
+825.
+Hacker News categorizer with MonkeyLearn
+42 points
+eudox
+2 days ago
+1 comment
+826.
+Petraeus Gets Leniency for LeakingAnd Risens CIA Source Should Too
+5 points
+etiam
+2 days ago
+discuss
+827.
+The world's languages in 7 maps and charts
+8 points
+bandrami
+3 days ago
+discuss
+828.
+Laser Scans of London Are a New Way to See the World
+79 points
+astrange
+5 days ago
+14 comments
+829.
+German intelligence helped NSA spy on EU politicians
+6 points
+dmitrygr
+2 days ago
+discuss
+830.
+Where do betas come from? A Visual explanation of OLS Regression
+3 points
+vicapow
+3 days ago
+discuss
+831.
+Museum buys artwork with Bitcoin. This is their press release [pdf]
+5 points
+bmwdriver
+3 days ago
+discuss
+832.
+Science confirms: Politics wrecks your ability to do math
+4 points
+__Joker
+3 days ago
+1 comment
+833.
+CapitalOne has the most secure password system
+19 points
+TheRealPomax
+3 days ago
+24 comments
+834.
+Johnny-Five, Node.js Robotics Framework Launches Enhanced Website
+3 points
+robotsrule
+3 days ago
+discuss
+835.
+Self-Assembling Table
+20 points
+prostoalex
+3 days ago
+10 comments
+836.
+The Tyranny of Pew-Pew: How Fun Fantasy Violence Became Inescapable
+4 points
+colinprince
+3 days ago
+1 comment
+837.
+Show HN: Usetrace  Record and Play Highly Maintainable UI Tests  For Web Devs
+8 points
+eeheino
+3 days ago
+1 comment
+838.
+Low Overhead Task Execution in Java
+12 points
+_benedict
+3 days ago
+discuss
+839.
+One weird trick that will give you makefile X-ray vision
+10 points
+jgrahamc
+3 days ago
+2 comments
+840.
+Eating crickets  perfect protein
+3 points
+jonas_b
+3 days ago
+discuss
