@@ -16,6 +16,8 @@ With each implemented model the evaluation metrics are present in the correspond
 * Karma score of user who posted the news: Didn't find any correlation, so finally removed it
 * As hacker news is only link aggreator, and doesn't have the articles, uesd no NLP feature.
 
+=======================================================
+
 Used the scikit python library for various models, namely
 * Linear Regression
 * Logistic Regression
